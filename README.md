@@ -1,4 +1,4 @@
-# Welcome to the Self_Driving_Cars repo!
+# Welcome to the Self Driving Cars repo!
 
 This repository works as a general page that links to all other repositories related to my self-driving car projects
 
