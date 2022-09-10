@@ -26,7 +26,7 @@ This repository works as a general page that links to all other repositories rel
 7. Localization
     * [[**Project**] Scan Matching Localization](https://github.com/CheloGE/Scan_Matching_Localization)
 8. Planning
-    * [[**Project**] Motion Planning and Decision Making for Autonomous Vehicles] **Link missing**
+    * [**Project**] Motion Planning and Decision Making for Autonomous Vehicles **Link missing**
 9. Control
     * [[**Project**] 2 PIDs for Control and Trajectory Tracking](https://github.com/CheloGE/Trajectory_tracking_controller)
 10. Kalman Filters
