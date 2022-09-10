@@ -22,3 +22,8 @@ This repository works as a general page that links to all other repositories rel
     * [[**Project**] End to end/Behavioral Cloning deep learning](https://github.com/CheloGE/CarND-Behavioral_Cloning-Project)
 6. Kalman Filters
     * [[**Project**] Extended Kalman Filter Project](https://github.com/CheloGE/CarND-Extended-Kalman-Filter-Project)
+7. Sensor Fusion
+    * [[**Project**] Lidar obstacle detection](https://github.com/CheloGE/Lidar_obstacle_detection)
+    * [[**Project**] Camera based 2D Feature Tracking](https://github.com/CheloGE/Camera_based_2D_Feature_Tracking)
+    * [[**Project**] Track an Object in 3D Space](https://github.com/CheloGE/Track_an_object_in_3D_space)
+    
